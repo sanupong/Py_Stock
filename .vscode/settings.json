@@ -1,0 +1,5 @@
+{
+    "editor.formatOnSave": true,
+    "workbench.tree.indent": 10,
+    "editor.tabSize": 2
+}
